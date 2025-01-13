@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 2b2f80565cd66e44e83b86db07a59248
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 122
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95150cd5729d144ac9d8f4a3c131d7
+      internalID: 2039674460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 106
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b376ea73a46aca64d9a5250daa5a4813
+      internalID: -588781802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 119
+        width: 160
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75954e899434e2e4196227dd985a82e8
+      internalID: -93229146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 122
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d873a39699bb1418e45f07e0da0d5c
+      internalID: -1083334443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50085ebb25cef414b951298fbfe18586
+      internalID: 546921607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 122
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd4321bd4decc47a2aeb7bd4740a9e
+      internalID: 800424180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 122
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe8fb05d507614ca38913fb3bacd4d
+      internalID: 1911781004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_7
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 122
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8a88bf83d21b4d91594667ecf6570
+      internalID: -1527753526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b599fe3489108004fa1f98889289b7db
+      internalID: 495126349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942d6664667b0aa42969ca0603feab0a
+      internalID: 238302289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e32c9355c646a4f871815de66467cf
+      internalID: -308595641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 10
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e23246e7c855740a3a3591077933b4
+      internalID: 1014087312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_12
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 42
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce70d67a4c34a7469dd85aee6b0a3e3
+      internalID: 1718601862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 58
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be8a7eb2bbe0d4b8ecbc419d72a9b8
+      internalID: -860261512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_14
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 10
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb33764fec0c17489786f8d7efffc6b
+      internalID: 706244339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 58
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef43d45cc2fb34a98ead5491a27567
+      internalID: -87838097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 58
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab71916896d885d4d8b8c7681567f106
+      internalID: 1148321147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 10
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950850ec33914047883baaa748cc859
+      internalID: -1867110585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566605c948429c459bf0be83787bf85
+      internalID: 1997898797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 10
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171465ae3e105af42909988366664a31
+      internalID: -759786590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064a78648606cb42a310a9cca608bba
+      internalID: 653185444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 10
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19adcbb9151e47c48a1798f52280e55c
+      internalID: -2026419194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 10
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490346b513b4e544ea484b73a2db564c
+      internalID: 1492467513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 10
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb7570765e0ac4db43a2d41098ae5a
+      internalID: -1842527614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-dark-castle-interior-tileset-ezgif.com-crop_24
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 10
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d04d4754ffc441a493e3f33c9b477
+      internalID: -541814043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      old-dark-castle-interior-tileset-ezgif.com-crop_0: 2039674460
+      old-dark-castle-interior-tileset-ezgif.com-crop_1: -588781802
+      old-dark-castle-interior-tileset-ezgif.com-crop_10: -308595641
+      old-dark-castle-interior-tileset-ezgif.com-crop_11: 1014087312
+      old-dark-castle-interior-tileset-ezgif.com-crop_12: 1718601862
+      old-dark-castle-interior-tileset-ezgif.com-crop_13: -860261512
+      old-dark-castle-interior-tileset-ezgif.com-crop_14: 706244339
+      old-dark-castle-interior-tileset-ezgif.com-crop_15: -87838097
+      old-dark-castle-interior-tileset-ezgif.com-crop_16: 1148321147
+      old-dark-castle-interior-tileset-ezgif.com-crop_17: -1867110585
+      old-dark-castle-interior-tileset-ezgif.com-crop_18: 1997898797
+      old-dark-castle-interior-tileset-ezgif.com-crop_19: -759786590
+      old-dark-castle-interior-tileset-ezgif.com-crop_2: -93229146
+      old-dark-castle-interior-tileset-ezgif.com-crop_20: 653185444
+      old-dark-castle-interior-tileset-ezgif.com-crop_21: -2026419194
+      old-dark-castle-interior-tileset-ezgif.com-crop_22: 1492467513
+      old-dark-castle-interior-tileset-ezgif.com-crop_23: -1842527614
+      old-dark-castle-interior-tileset-ezgif.com-crop_24: -541814043
+      old-dark-castle-interior-tileset-ezgif.com-crop_3: -1083334443
+      old-dark-castle-interior-tileset-ezgif.com-crop_4: 546921607
+      old-dark-castle-interior-tileset-ezgif.com-crop_5: 800424180
+      old-dark-castle-interior-tileset-ezgif.com-crop_6: 1911781004
+      old-dark-castle-interior-tileset-ezgif.com-crop_7: -1527753526
+      old-dark-castle-interior-tileset-ezgif.com-crop_8: 495126349
+      old-dark-castle-interior-tileset-ezgif.com-crop_9: 238302289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

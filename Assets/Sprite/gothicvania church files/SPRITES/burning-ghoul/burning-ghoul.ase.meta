@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: 481c8b1994cc76548b54128d72a97724
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: burning-ghoul_Frame_0
+    originalName: 
+    pivot: {x: 0.6621622, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 167
+      width: 37
+      height: 41
+    spriteID: 0f71250c096a14c46877dd5793042c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 167}
+  - name: burning-ghoul_Frame_1
+    originalName: 
+    pivot: {x: 0.6428571, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 4
+      width: 35
+      height: 43
+    spriteID: e7f0364883a961045b697330d1764509
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 4}
+  - name: burning-ghoul_Frame_2
+    originalName: 
+    pivot: {x: 0.62903225, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 102
+      width: 31
+      height: 42
+    spriteID: 5dfdd94dbfbb3df47a1fff28a8d96be7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 102}
+  - name: burning-ghoul_Frame_3
+    originalName: 
+    pivot: {x: 0.4142857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 106
+      width: 35
+      height: 42
+    spriteID: 0e020fc3c08f07448adcdd01cff86d1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 106}
+  - name: burning-ghoul_Frame_4
+    originalName: 
+    pivot: {x: 0.609375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 209
+      width: 32
+      height: 42
+    spriteID: ab811e69b97d3ab48a1e5d5fc7b3f545
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 209}
+  - name: burning-ghoul_Frame_5
+    originalName: 
+    pivot: {x: 0.640625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 156
+      width: 32
+      height: 45
+    spriteID: 49f2e99d08d06ba4f9b35b66293ed206
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 156}
+  - name: burning-ghoul_Frame_6
+    originalName: 
+    pivot: {x: 0.6527778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 59
+      width: 36
+      height: 46
+    spriteID: 0ddef1ba9147a9c48959383fdf21eb52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 59}
+  - name: burning-ghoul_Frame_7
+    originalName: 
+    pivot: {x: 0.54878044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 41
+      height: 47
+    spriteID: 505a248ef3d4e68469c012f28354b2b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: burning-ghoul_Frame_8
+    originalName: 
+    pivot: {x: 0.609375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 4
+      width: 32
+      height: 41
+    spriteID: 4f7877ad8bb51c34cb9d91418be73edb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 4}
+  - name: burning-ghoul_Frame_9
+    originalName: 
+    pivot: {x: 0.48214287, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 152
+      width: 28
+      height: 43
+    spriteID: 012078e0136e98a48baebfcc3a1df839
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 152}
+  - name: burning-ghoul_Frame_10
+    originalName: 
+    pivot: {x: 0.51666665, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 58
+      width: 30
+      height: 44
+    spriteID: 0b84a04202ba8f341ad13dc66efefcc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 58}
+  - name: burning-ghoul_Frame_11
+    originalName: 
+    pivot: {x: 0.38571426, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 55
+      width: 35
+      height: 43
+    spriteID: 84af68d3e1f069849b0edb72a8e37ccd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 55}
+  - name: burning-ghoul_Frame_12
+    originalName: 
+    pivot: {x: 0.609375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 53
+      width: 32
+      height: 41
+    spriteID: ce5a1a43b16c1e3419c093282e146ed1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 53}
+  - name: burning-ghoul_Frame_13
+    originalName: 
+    pivot: {x: 0.53999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 134
+      y: 203
+      width: 25
+      height: 44
+    spriteID: b480851114109694099c79a76412518e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 134, y: 203}
+  - name: burning-ghoul_Frame_14
+    originalName: 
+    pivot: {x: 0.51666665, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 30
+      height: 46
+    spriteID: 45211c0463f9c024385c07b0f1a029ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: burning-ghoul_Frame_15
+    originalName: 
+    pivot: {x: 0.4090909, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 113
+      width: 33
+      height: 46
+    spriteID: 866336dd9810f0b4486952692fd145cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 113}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -416111501
+    name: burning-ghoul
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: burning-ghoul_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 37
+        height: 41
+      spriteId: 0f71250c096a14c46877dd5793042c1a
+    - name: burning-ghoul_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 6
+        y: 0
+        width: 35
+        height: 43
+      spriteId: e7f0364883a961045b697330d1764509
+    - name: burning-ghoul_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 0
+        width: 31
+        height: 42
+      spriteId: 5dfdd94dbfbb3df47a1fff28a8d96be7
+    - name: burning-ghoul_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 14
+        y: 0
+        width: 35
+        height: 42
+      spriteId: 0e020fc3c08f07448adcdd01cff86d1a
+    - name: burning-ghoul_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 0
+        width: 32
+        height: 42
+      spriteId: ab811e69b97d3ab48a1e5d5fc7b3f545
+    - name: burning-ghoul_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 0
+        width: 32
+        height: 45
+      spriteId: 49f2e99d08d06ba4f9b35b66293ed206
+    - name: burning-ghoul_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 5
+        y: 0
+        width: 36
+        height: 46
+      spriteId: 0ddef1ba9147a9c48959383fdf21eb52
+    - name: burning-ghoul_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 6
+        y: 0
+        width: 41
+        height: 47
+      spriteId: 505a248ef3d4e68469c012f28354b2b9
+    - name: burning-ghoul_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 0
+        width: 32
+        height: 41
+      spriteId: 4f7877ad8bb51c34cb9d91418be73edb
+    - name: burning-ghoul_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 15
+        y: 0
+        width: 28
+        height: 43
+      spriteId: 012078e0136e98a48baebfcc3a1df839
+    - name: burning-ghoul_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 13
+        y: 0
+        width: 30
+        height: 44
+      spriteId: 0b84a04202ba8f341ad13dc66efefcc7
+    - name: burning-ghoul_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 15
+        y: 0
+        width: 35
+        height: 43
+      spriteId: 84af68d3e1f069849b0edb72a8e37ccd
+    - name: burning-ghoul_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 0
+        width: 32
+        height: 41
+      spriteId: ce5a1a43b16c1e3419c093282e146ed1
+    - name: burning-ghoul_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 15
+        y: 0
+        width: 25
+        height: 44
+      spriteId: b480851114109694099c79a76412518e
+    - name: burning-ghoul_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 13
+        y: 0
+        width: 30
+        height: 46
+      spriteId: 45211c0463f9c024385c07b0f1a029ad
+    - name: burning-ghoul_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 15
+        y: 0
+        width: 33
+        height: 46
+      spriteId: 866336dd9810f0b4486952692fd145cb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 57, y: 60}
